@@ -1,0 +1,27 @@
+{
+  "name": "stratbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andykr1k/StratBot.git"
+  },
+  "keywords": [],
+  "author": "Andrew Krikorian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andykr1k/StratBot/issues"
+  },
+  "homepage": "https://github.com/andykr1k/StratBot#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.2.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.10",
+    "discord.js": "^14.5.0",
+    "dotenv": "^16.0.2"
+  }
+}
